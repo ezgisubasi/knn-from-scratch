@@ -7,7 +7,7 @@ In this program, the KNN algorithm is written from scratch using the inverse dis
 
 Comparing both Sklearn and from Scratch KNN implementations, all of the accuracy score and error count values are the equal except k = 1. The reason why the results are different when k = 1 is that there are two points in different classes at the same distance. Since the program chooses the highest voted class in the KNN algorithm that we coded it chooses the wrong class in this test data set.
 
-<img width="276" alt="Ekran Resmi 2021-03-15 20 41 06" src="https://user-images.githubusercontent.com/52889449/111196831-cf250880-85ce-11eb-9b6f-e97302f9eb73.png">
+<div style="text-align:center"><img width="276" alt="Ekran Resmi 2021-03-15 20 41 06" src="https://user-images.githubusercontent.com/52889449/111196831-cf250880-85ce-11eb-9b6f-e97302f9eb73.png"></div>
 
 
 ### Scatter Plot
