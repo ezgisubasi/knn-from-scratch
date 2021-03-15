@@ -1,1 +1,0 @@
-# knn-from-scratch
